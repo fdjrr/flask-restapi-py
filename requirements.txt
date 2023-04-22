@@ -1,0 +1,6 @@
+flask
+autopep8
+pyzk
+flask_mysqldb
+python-dotenv
+aioflask
